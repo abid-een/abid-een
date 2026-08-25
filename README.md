@@ -1,6 +1,6 @@
 # Hey, I'm Abideen 👋
 
-**Senior Software Developer with 4+ years of production experience.**
+**Senior Software Developer with 2+ years of production experience.**
 
 ## 🛠️ Tech Stack
 *   **Languages:** ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=flat-square&logo=sqlite&logoColor=white)
@@ -16,9 +16,8 @@
 *   Architected **real-time** data processing platforms
 
 ## 📊 Stats
-*   **4+ years** of production experience
+*   **2+ years** of production experience
 *   **30+ companies** using my systems
-*   **75+ concurrent users** supported
 
 ## 📫 Reach Me
 [![Email](https://img.shields.io/badge/Email-hello@abideen.site-D14836?logo=gmail&logoColor=white)](mailto:hello@abideen.site) 
